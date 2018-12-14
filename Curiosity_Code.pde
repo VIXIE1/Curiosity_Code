@@ -1,6 +1,6 @@
 // add your curiosity code here
 PImage img;
-img = loadImage("https://s3-media2.fl.yelpcdn.com/bphoto/rZlAQB4RSSTCqac7Egrs7A/ls.jpg");
+img = loadImage("ALHS.jpg");
 background(255,255,255);
 size(680,260);
 //cab
