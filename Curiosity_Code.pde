@@ -1,6 +1,5 @@
 // add your curiosity code here
-PImage img;
-@pjs preload="ALHS.jpg"; 
+PImage img; 
 img = loadImage("ALHS.jpg");
 background(255,255,255);
 size(680,260);
