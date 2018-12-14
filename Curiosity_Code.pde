@@ -21,9 +21,7 @@ vertex(515,100);
 vertex(505,100);
 vertex(505,60);
 endShape();
-
 noStroke();
-
 fill(220,20,60);
 beginShape();
 vertex(520,100);
